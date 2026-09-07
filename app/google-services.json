@@ -1,0 +1,69 @@
+{
+    "project_info": {
+        "project_number": "327553139090",
+        "firebase_url": "https://sigmintfire-default-rtdb.firebaseio.com",
+        "project_id": "sigmintfire",
+        "storage_bucket": "sigmintfire.firebasestorage.app"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:327553139090:android:d99fbead0b3b8009f8814b",
+                "android_client_info": {
+                    "package_name": "com.sigmint.fire"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "327553139090-uvbluh1epestucfoobmkekdos6r4c363.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyDM10wJ8VqazKTIECkY_CKSHzHHLWQ8IPM"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "327553139090-uvbluh1epestucfoobmkekdos6r4c363.apps.googleusercontent.com",
+                            "client_type": 3
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:327553139090:android:fe88ab90b6f7762bf8814b",
+                "android_client_info": {
+                    "package_name": "com.sigmint.fire.admin"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "327553139090-uvbluh1epestucfoobmkekdos6r4c363.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyDM10wJ8VqazKTIECkY_CKSHzHHLWQ8IPM"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "327553139090-uvbluh1epestucfoobmkekdos6r4c363.apps.googleusercontent.com",
+                            "client_type": 3
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
